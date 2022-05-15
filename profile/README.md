@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
 </h1>
 
+
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/Diamond-Alliance/count.svg)
 <!--
 
 **Here are some ideas to get you started:**
